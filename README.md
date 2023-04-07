@@ -1,7 +1,9 @@
 # medical-drug-prediction-
 TEAM MEDIPIN
 
-OUR IDEA
+OUR IDEA : ------
+
+
 To develop a framework of multiple AI models that can work in collaboration and reason with each other and form various paths (logical abstracts) to reach one certain decision.  
 
 Focus on the medical prescription use case that involves reasoning for a disease diagnosis (like multiple doctor consultations).
@@ -13,6 +15,8 @@ We also focus on how to leverage knowledge graphs in pre-model, in-model, and po
 
 
 CONCEPT OF SOLUTION : --
+
+
 A Multi-Model Machine learning approach is needed for better reasoning.
         (Random Forest, LSTM,  Soft Voting )
 
@@ -21,6 +25,8 @@ The Target variable will be achieved with a voting classifier.
 Knowledge graphs will visualize data such that related information is constantly connected which will help obtain in-depth insights into the underlying mechanisms of the working models 
 
 SCOPE OF SOLUTION  :---
+
+
 What is novel in your mentioned idea and the scope of the proposed solution
 
 We are implementing multiple Machine Learning Models so that they provide better reasoning and predict prescriptions with higher accuracy.
@@ -29,6 +35,8 @@ Knowledge Graphs will serve reasoning by providing a  visual representation of t
 
 
 PROS AND CONS OF THE SOLUTION :---
+
+
 1.Combine siloed data sources
 2. Combine structured and unstructured data
 3. Insights from hierarchical data
@@ -40,6 +48,8 @@ PROS AND CONS OF THE SOLUTION :---
 
 
 VALIDATION : ----
+
+
 1.Adding knowledge
   Providing More data to the ML algorithms 
 2. Features selection
